@@ -6,7 +6,7 @@ Library for ILI9341 low cost SPI LCD displays.
 Requirements
 ------------
 Adafruit_mfGFX library
-
+Hackedup a bit.
 
 Usage
 -----
